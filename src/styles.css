@@ -1,0 +1,62 @@
+.navbar-btn:focus,
+.navbar-btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.form-control:focus,
+.form-control:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.navigationLink {
+  color: white;
+  text-decoration: none;
+}
+
+.navigationLink:hover {
+  color: black;
+}
+
+.navbar-btn {
+  color: white;
+}
+
+.navbar-btn:hover {
+  color: black;
+}
+
+.form-btn {
+  border: solid 1px;
+  color: black;
+}
+.form-btn:hover {
+  color: white;
+  border-color: white;
+}
+
+.delete-btn {
+  border: solid 1px;
+  color: black;
+}
+.delete-btn:hover {
+  color: #ff9f00;
+  border-color: #ff9f00;
+}
+
+.delete-btn:focus,
+.delete-btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+.container {
+  margin: 100px;
+}
+
+.table thead tr th,
+.table tbody tr td {
+  border: 2px solid #828282;
+  text-align: center;
+}
